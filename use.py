@@ -1,4 +1,4 @@
-import css
+from csslib import css
 
 CSS = css.CSS3("$favcol:purple;/* comment */body{background-color:$favcol;}") # input as string
 CSS.parse() # parses string

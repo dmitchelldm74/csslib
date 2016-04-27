@@ -1,6 +1,6 @@
 See use.py for information on how to use csslib
 
 Install:
-    ./install.sh
+    sudo python setup.py install
 TODO:
     - add imports
